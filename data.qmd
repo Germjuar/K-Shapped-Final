@@ -1,0 +1,31 @@
+---
+title: "Data Sources and Site Details"
+subtitle: "Where I got the info and how I made it"
+format:
+    html:
+        theme: cosmo
+                
+---
+
+### Why the Economy?
+
+I have forever thought most issues derive from people feeling there is a gap in reaching their basic necessities and that this is an increasing issue now. I wanted to explore how numbers can quantify this with public government data while also recognnizing a lot of media messaging now is speaking to the contrary, that the U.S has never been better economically. This naturally led to the idea of the k-shapped economy and most interestingly how both these ideas can be true. This is my attempt to explore a piece of this topic that I find very interesting.
+
+
+This project formatting was inspired by this bigfoot scrollytelling article seen <a href= "https://edenian-prince.github.io/bigfoot-closeread/">here</a>
+
+Data source, scraping, and processing details can be found here in [My GitHub repo](https://github.com/Germjuar/K-Shapped-Final)    
+
+
+#### Part 1: The Headline Economy
+
+
+#### Part 2: The Illusion of Relief
+
+
+#### Part 3: How We Feel Inflation
+
+
+#### Part 4: The Wealth Gap
+
+
