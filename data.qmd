@@ -18,14 +18,16 @@ Data source, scraping, and processing details can be found here in [My GitHub re
 
 
 #### Part 1: The Headline Economy
-
+[Fred S&P](https://fred.stlouisfed.org/series/SP500#)
 
 #### Part 2: The Illusion of Relief
-
+[Fred CPI](https://fred.stlouisfed.org/graph/?g=rocU#)
 
 #### Part 3: How We Feel Inflation
+[BLS Consumer Spending](https://www.statista.com/statistics/247420/percentage-of-annual-us-consumer-spending-by-income-quintiles/)
 
 
 #### Part 4: The Wealth Gap
+[Fed Reserve](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#quarter:145;series:Net%20worth;demographic:networth;population:all;units:levels;range:2010.4,2025.4)
 
-
+[Back](index.html)    
