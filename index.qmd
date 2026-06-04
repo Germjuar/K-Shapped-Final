@@ -278,12 +278,6 @@ interactive_plot <- ggplotly(k_shape_plot, tooltip = "text") |>
   # subtitles through layout
   layout(
     hovermode = "x unified", 
-    annotations = list(
-      x = 0, y = 1.05,
-      showarrow = FALSE, xref = 'paper', yref = 'paper', 
-      xanchor = 'left', yanchor = 'bottom', 
-      font = list(size = 12, color = "#555555")
-    ),
     margin = list(t = 70) 
   )
 
@@ -573,6 +567,6 @@ interactive_plot
 ## Links
 
 :::{.offlinks}
-[Data Sources and Site Details](data.qmd)
+[Data Sources and Site Details](data.html)
 
 :::
