@@ -1,6 +1,7 @@
 ---
 title: "Data Sources and Site Details"
 subtitle: "Where I got the info and how I made it"
+author: "German Juarez"
 format:
     html:
         theme: cosmo
@@ -18,16 +19,24 @@ Data source, scraping, and processing details can be found here in [My GitHub re
 
 
 #### Part 1: The Headline Economy
+
+The dataset in which we see the current total market value of 500 leading U.S. public companies through 2016 to April 2026
 [Fred S&P](https://fred.stlouisfed.org/series/SP500#)
 
 #### Part 2: The Illusion of Relief
+
+The dataset in which the Federal Reserve Bank of St. Louis houses Bureau of Labor Statistics inflation data by month from 2016 to April 2026
 [Fred CPI](https://fred.stlouisfed.org/graph/?g=rocU#)
 
 #### Part 3: How We Feel Inflation
+
+The dataset from the 2024 consumer expenditure surveys exploring quintiles of income before taxes with annual expenditure means
 [BLS Consumer Spending](https://www.statista.com/statistics/247420/percentage-of-annual-us-consumer-spending-by-income-quintiles/)
 
 
 #### Part 4: The Wealth Gap
+
+This dataset is from the Federal Reserve, sourced from the Survey of Consumer Finances and Financial Accounts of the United States. It demonstrates networth across levels. I focused on 2016 to 2024
 [Fed Reserve](https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#quarter:145;series:Net%20worth;demographic:networth;population:all;units:levels;range:2010.4,2025.4)
 
 [Back](index.html)    

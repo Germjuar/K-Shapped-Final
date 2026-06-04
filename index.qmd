@@ -410,19 +410,19 @@ ggplot(cpi_data, aes(x = observation_date, y = inflation_rate)) +
 
 :::{.cr-section layout="sidebar-left"}
 
-This elevated price floor hits households very differently depending on their income. Let's zoom in on the lowest 20% of earners to see exactly what survival costs. [@cr-spend-q1]
+Let's zoom in on the lowest 20% of earners to start seeing how people in different income brackets feel inflation by how much they have to spend on necessities. [@cr-spend-q1]
 
-When we reveal their mean income, the severity of the crisis becomes clear. This group faces a harsh deficit, they are forced to spend thousands of dollars more than they earn, likely taking on debt just to afford housing and food. 
+When we reveal their mean income, the severity of the crisis becomes clear. This group faces a harsh deficit, they are forced to spend thousands of dollars more than they earn, taking on debt just to afford housing and food. 
 
-As we pan to the second-lowest 20% of earners, the gap closes, but the margin for error remains razor-thin. Almost their entire income is consumed by basic inelastic necessities. [@cr-spend-q2]
+As we pan to the second-lowest 20% of earners, the gap closes, but the margin for error remains very thin. Almost their entire income is consumed by basic necessities. [@cr-spend-q2]
 
-For the middle 20%, we finally see a clear surplus begin to form, allowing for a modest amount of savings and discretionary spending. [@cr-spend-q3]
+For the middle 20%, we finally see a surplus begin to form, allowing for a modest amount of savings and discretionary spending. [@cr-spend-q3]
 
 By the fourth bracket, discretionary income expands significantly. They are largely shielded from spikes in the cost of gas or groceries. [@cr-spend-q4]
 
 And for the highest 20% of earners, basic survival necessities represent only a tiny fraction of a massive income pool. [@cr-spend-q5]
 
-When we clear the numbers and zoom out to view the entire economy, the stark reality of the wealth gap becomes undeniable. The bottom end is structurally squeezed, while the top has a massive surplus to invest. [@cr-spend-all]
+When we clear the numbers and zoom out to view the entire economy, the reality of the wealth gap becomes undeniable. The bottom end is structurally squeezed, while the top has a massive surplus to invest. [@cr-spend-all]
 
 
 :::{#cr-spend-q1}
@@ -502,15 +502,15 @@ state_all_clean
 
 ::::{.cr-section layout="sidebar-right"}
 
-When we combine booming asset prices with overwhelming necessity costs, we get a "K-Shaped" economy. [@cr-wealth-1]
+When we combine these booming stock and asset prices with overwhelming costs on necessities, we get a "K-Shaped" economy. [@cr-wealth-1]
 
 Let's look at who actually owns America's wealth. Since 2016, the top 10% of earners, who hold the vast majority of stocks and real estate, have seen their total net worth explode exponentially. [@cr-wealth-1]
 
-What about the traditional middle class? The middle 40% has seen some growth, primarily driven by home equity, but their trajectory is flat compared to the explosive gains at the top. [@cr-wealth-2]
+What about the traditional middle class? The middle 40% has seen some growth, primarily driven by home equity, but their trajectory is flat compared to the gains at the top. [@cr-wealth-2]
 
 But the most alarming reality belongs to the bottom 50% of Americans. [@cr-wealth-3]
 
-Because the bottom 50% must spend their entire budget to survive, they cannot invest. Therefore, the wealth of the bottom 50% flatlines entirely against the bottom of the axis. Two Americas, living in the same country, experiencing entirely different economies. [@cr-wealth-3]
+Because the bottom 50% must spend most their entire budget to survive, they cannot invest. Therefore, the wealth of the bottom 50% flatlines entirely against the bottom of the axis. Two Americas, living in the same country, experiencing entirely different economies. [@cr-wealth-3]
 
 Hover over the lines to explore the exact wealth gap. [@cr-wealth-interactive]
 
